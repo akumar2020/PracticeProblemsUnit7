@@ -7,5 +7,5 @@ def fibonacci(n):
 
 print(fibonacci(0))
 print(fibonacci(1))
-print(fibonacci(40))
+print(fibonacci(4))
 print(fibonacci(9))
