@@ -1,4 +1,5 @@
 def factorial(num):
+	'''Takes an integer and returns its factorial'''
 	if num == 0:
 		return 1
 	else:
